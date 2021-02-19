@@ -1,5 +1,7 @@
 Pekerjaan Impian Saya
 
 - Web Developer
+  * Front End Developer
+  * Back End Developer
 - Bussiness Man
 - Successfull Developer
