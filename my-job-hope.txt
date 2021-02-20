@@ -3,6 +3,9 @@ Pekerjaan Impian Saya
 - Web Developer
   * Front End Developer
   * Back End Developer
+    ^ PHP Programming
+    ^ Database
 - Bussiness Man
 - Software Developer
 - Successfull Developer
+- Game Developer
