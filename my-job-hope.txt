@@ -6,6 +6,5 @@ Pekerjaan Impian Saya
     ^ PHP Programming
     ^ Database
 - Bussiness Man
-- Software Developer
 - Successfull Developer
 - Game Developer
